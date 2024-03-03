@@ -1,0 +1,24 @@
+{
+  "name": "next-luhungism",
+  "version": "1.0.0",
+  "description": "This is the description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madeluhung/next-luhungism.git"
+  },
+  "keywords": [
+    "generated"
+  ],
+  "author": "madeluhung",
+  "license": "MIT",
+  "dependencies": {
+    "luhungism": "^1.0.0",
+    "react-luhungism": "^1.0.0",
+    "angular-luhungism": "^1.0.0",
+    "vue-luhungism": "^1.0.0"
+  }
+}
